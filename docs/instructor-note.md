@@ -7,9 +7,6 @@ queues, stacks, and asymptotic notation. It can introduce the distinction among
 traversal, single-source shortest paths, and minimum spanning trees, or serve as
 an integration exercise before assessment.
 
-The repository is an independent portfolio artifact. It is not based on a
-Bowdoin assignment and should not be presented as one.
-
 ## Learning evidence
 
 Look for students who can:
