@@ -1,1 +1,5 @@
-ÎÈur‰¦jwg¢×èºwh¥éì²
+target/
+.idea/
+.vscode/
+*.iml
+.DS_Store
