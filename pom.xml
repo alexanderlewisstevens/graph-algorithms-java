@@ -8,7 +8,7 @@
     <artifactId>graph-algorithms-java</artifactId>
     <version>0.1.0-SNAPSHOT</version>
     <name>Graph Algorithms Java</name>
-    <description>A compact, tested graph-algorithms library designed as a teaching portfolio artifact.</description>
+    <description>A tested Java library for standard graph algorithms.</description>
 
     <properties>
         <maven.compiler.release>21</maven.compiler.release>
