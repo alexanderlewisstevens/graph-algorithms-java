@@ -1,20 +1,11 @@
 # Graph Algorithms in Java
 
-A compact, tested graph library and teaching activity that demonstrates Java,
-data-structure design, algorithmic reasoning, and pedagogical documentation.
+A small Java 21 graph library with tests and accompanying course materials.
 
-This is an independent portfolio project. It is not copied from or presented as
-coursework from Bowdoin College or the University of Denver.
+## Scope
 
-## Status
-
-Independent teaching portfolio project, version `0.1.0-SNAPSHOT`. This is a
-self-directed project, not a contribution accepted by an external project.
-
-## Why this scope
-
-The project deliberately stays small enough to inspect in one sitting while
-covering several ideas expected in a data-structures and algorithms sequence:
+The project covers several topics from a standard data-structures and
+algorithms sequence:
 
 - a generic weighted adjacency-list graph;
 - directed and undirected semantics;
@@ -103,9 +94,9 @@ Let `V` be the number of vertices and `E` the number of stored edges.
 ## Teaching materials
 
 - [Student activity](docs/student-activity.md): prediction, tracing, comparison,
-  and boundary-test design with rotating collaboration roles.
-- [Instructor note](docs/instructor-note.md): learning evidence, misconceptions,
-  facilitation choices, accessibility, rubric, and extensions.
+  and boundary-test design.
+- [Instructor note](docs/instructor-note.md): learning goals, likely
+  misconceptions, facilitation notes, rubric, and extensions.
 
 ## Verification coverage
 
@@ -114,7 +105,7 @@ self-loop behavior, immutable views, deterministic traversal, disconnected and
 isolated vertices, zero and negative weights, unreachable paths, path
 reconstruction, empty graphs, and minimum spanning forests.
 
-## Deliberate next steps
+## Future work
 
 1. Add a small command-line demonstration only if it improves inspectability.
 2. Ask a Java-experienced colleague to review naming and API choices.
